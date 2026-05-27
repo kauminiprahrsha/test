@@ -3,3 +3,5 @@ scikit-learn==1.6.1
 pandas==2.2.2
 numpy==1.26.2
 gunicorn==21.2.0
+requests
+scipy
